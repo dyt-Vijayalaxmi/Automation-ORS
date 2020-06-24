@@ -18,7 +18,7 @@ import com.dyt.ors.config.Config;
 import com.dyt.reports.Reporter;
 
 public class BaseClass extends Config {
-	
+	// hello
 		//========================================================================	
 		@BeforeSuite
 		public void setupReport()
